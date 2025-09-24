@@ -12,3 +12,11 @@ Library Based Codes
     Pandas
     SciPy
     Pandas
+
+Graph Based Codes
+
+    Bar Graphs
+    Line Graphs
+    Bar & Line Graphs
+    Dot Plots
+    Histograms
