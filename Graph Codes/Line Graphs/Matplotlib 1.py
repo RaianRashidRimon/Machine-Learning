@@ -1,10 +1,11 @@
 import matplotlib.pyplot as plt
 
-# Data
+
 days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 sales = [410, 440, 550, 420, 610, 790, 770]
 
-# Create line graph
+
+
 plt.figure(figsize=(10, 6))
 plt.plot(days, sales, marker='o', linestyle='-', color='b')
 plt.title('Ice Cream Sales by Day')
