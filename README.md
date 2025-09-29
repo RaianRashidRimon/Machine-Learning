@@ -6,13 +6,6 @@ This repository contains several types of Machine Learning contents/codes such a
 # 📋 Contents
 The repository is organized into the following folders:
 
-Library Based Codes
-
-    NumPy
-    Pandas
-    SciPy
-    Pandas
-
 Graph Based Codes
 
     Bar Graphs
@@ -21,3 +14,11 @@ Graph Based Codes
     Dot Plots
     Histograms
     Pictographs
+
+Library Based Codes
+
+    NumPy
+    Pandas
+    SciPy
+    Pandas
+
