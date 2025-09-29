@@ -20,3 +20,4 @@ Graph Based Codes
     Bar & Line Graphs
     Dot Plots
     Histograms
+    Pictographs
