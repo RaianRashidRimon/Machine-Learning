@@ -3,7 +3,7 @@ This repository contains a collection of machine learning algorithm codes along 
 
 This repository contains several types of Machine Learning contents/codes such as, different types of machine learning algorithms along with library and graph based codes
 
-# 📋 Contents
+# Contents
 The repository is organized into the following folders:
 
 Graph Based Codes
