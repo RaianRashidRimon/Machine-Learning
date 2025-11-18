@@ -14,6 +14,7 @@ Graph Based Codes
     Dot Plots
     Histograms
     Pictographs
+    Piecharts
 
 Library Based Codes
 
