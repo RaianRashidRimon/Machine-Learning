@@ -23,3 +23,6 @@ Library Based Codes
     SciPy
     Pandas
 
+Algorithms
+
+    Linear Regression
