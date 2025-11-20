@@ -26,3 +26,4 @@ Library Based Codes
 Algorithms
 
     Linear Regression
+    Logistic Regression
