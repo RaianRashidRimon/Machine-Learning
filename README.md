@@ -28,3 +28,4 @@ Algorithms
     Linear Regression
     Logistic Regression
     K-Means Clustering
+    K-Nearest Neighbor 
