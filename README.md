@@ -30,3 +30,4 @@ Algorithms
     K-Means Clustering
     K-Nearest Neighbor 
     Naive Bayes
+    Support Vector Machine
