@@ -3,20 +3,16 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
-# Data
 countries = ['Madagascar', 'India', 'Mexico', 'Taiwan', 'Norway']
 production = np.array([800, 3100, 9600, 25300, 40000])
 birth_rate = np.array([5.70, 2.85, 2.49, 1.57, 1.78])
-
-# Fit linear regression
 model = LinearRegression()
 model.fit(production.reshape(-1, 1), birth_rate)
-
-# Predict values for the line
 prod_range = np.linspace(min(production), max(production), 100)
 birth_pred = model.predict(prod_range.reshape(-1, 1))
 
-# Create scatter plot with Seaborn styling
+
+
 plt.figure(figsize=(10, 6))
 sns.scatterplot(x=production, y=birth_rate, color='blue', s=100)
 for i, country in enumerate(countries):
@@ -30,5 +26,4 @@ plt.grid(True, linestyle='--', alpha=0.7)
 plt.legend()
 plt.show()
 
-# Print the equation of the line (optional)
 print(f'Best-Fit Line: y = {model.coef_[0]:.4f}x + {model.intercept_:.4f}')
