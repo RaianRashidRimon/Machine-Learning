@@ -31,3 +31,4 @@ Algorithms
     K-Nearest Neighbor 
     Naive Bayes
     Support Vector Machine
+    ID3
