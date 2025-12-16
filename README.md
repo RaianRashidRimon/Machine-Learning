@@ -32,3 +32,7 @@ Algorithms
     Naive Bayes
     Support Vector Machine
     ID3
+
+Performance Visualization
+
+    Confusion Matrix
