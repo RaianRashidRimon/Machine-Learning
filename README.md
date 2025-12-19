@@ -36,3 +36,5 @@ Algorithms
 Performance Visualization
 
     Confusion Matrix
+    Heatmap
+    
