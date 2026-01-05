@@ -15,6 +15,7 @@ Graph Based Codes
     Histograms
     Pictographs
     Piecharts
+    Stem and Leaf Plots
 
 Library Based Codes
 
