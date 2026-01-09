@@ -32,6 +32,7 @@ Algorithms
     K-Nearest Neighbor 
     Naive Bayes
     Support Vector Machine
+    Decision Tree
     ID3
 
 Performance Visualization
