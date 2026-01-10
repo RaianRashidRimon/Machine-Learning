@@ -51,4 +51,18 @@ Performance Visualization
 2. Navigate to the folder and run the desired code in VS Code, PyCharm, or any other Python environment.
 
 
+## Contributing
+To contribute:
+1. Fork the repository.
+2. Create a new algorithm/code branch:
+
+    `git checkout -b [algorithm]`
+
+3. Commit changes and push:
+
+    `git commit -m "Add new algorithm"`
+  
+    `git push origin [algorithm]`
+
+4. Submit a pull request.
 
