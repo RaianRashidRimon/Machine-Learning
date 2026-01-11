@@ -34,6 +34,7 @@ Algorithms
     Support Vector Machine
     Decision Tree
     ID3
+    Random Forest Classifier
 
 Performance Visualization
 
