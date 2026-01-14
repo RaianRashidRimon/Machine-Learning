@@ -35,6 +35,8 @@ Algorithms
     Decision Tree
     ID3
     Random Forest Classifier
+    Principal Component Analysis
+    
 
 Performance Visualization
 
