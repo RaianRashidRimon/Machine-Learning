@@ -36,6 +36,7 @@ Algorithms
     ID3
     Random Forest Classifier
     Principal Component Analysis
+    DBSCAN
     
 
 Performance Visualization
