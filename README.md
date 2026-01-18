@@ -37,6 +37,7 @@ Algorithms
     Random Forest Classifier
     Principal Component Analysis
     DBSCAN
+    Hierarchical Clustering
     
 
 Performance Visualization
