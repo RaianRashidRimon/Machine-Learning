@@ -38,6 +38,8 @@ Algorithms
     Principal Component Analysis
     DBSCAN
     Hierarchical Clustering
+            i. Single Linkage
+           ii. Complete Linkage
     
 
 Performance Visualization
