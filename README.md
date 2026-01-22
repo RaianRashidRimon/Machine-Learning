@@ -40,6 +40,8 @@ Algorithms
     Hierarchical Clustering
             i. Single Linkage
            ii. Complete Linkage
+          iii. Ward Linkage
+           iv. Average Linkag
     
 
 Performance Visualization
