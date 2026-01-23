@@ -37,6 +37,7 @@ Algorithms
     Random Forest Classifier
     Principal Component Analysis
     DBSCAN
+    Gradient Boosting
     Hierarchical Clustering
             i. Single Linkage
            ii. Complete Linkage
