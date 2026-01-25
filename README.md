@@ -38,6 +38,7 @@ Algorithms
     Principal Component Analysis
     DBSCAN
     Gradient Boosting
+    XGBoost
     Hierarchical Clustering
             i. Single Linkage
            ii. Complete Linkage
