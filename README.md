@@ -39,6 +39,7 @@ Algorithms
     DBSCAN
     Gradient Boosting
     XGBoost
+    AdaBoost
     Hierarchical Clustering
             i. Single Linkage
            ii. Complete Linkage
