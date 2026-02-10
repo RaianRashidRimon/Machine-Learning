@@ -40,6 +40,7 @@ Algorithms
     Gradient Boosting
     XGBoost
     AdaBoost
+    Mean-Shift
     Hierarchical Clustering
             i. Single Linkage
            ii. Complete Linkage
