@@ -27,6 +27,7 @@ Library Based Codes
 Algorithms
 
     Linear Regression
+    Polynomial Regression
     Logistic Regression
     K-Means Clustering
     K-Nearest Neighbor 
