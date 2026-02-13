@@ -43,6 +43,7 @@ Algorithms
     AdaBoost
     LightGBM
     Mean-Shift
+    Bagging
     Hierarchical Clustering
             i. Single Linkage
            ii. Complete Linkage
