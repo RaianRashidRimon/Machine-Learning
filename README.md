@@ -56,6 +56,7 @@ Performance Visualization
     Confusion Matrix
     Heatmap
     ROC Curve
+    Precision-Recall Curve
 
 
 
