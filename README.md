@@ -57,6 +57,7 @@ Performance Visualization
     Heatmap
     ROC Curve
     Precision-Recall Curve
+    Precision Recall F1 bar plot
 
 
 
