@@ -58,6 +58,7 @@ Performance Visualization
     ROC Curve
     Precision-Recall Curve
     Precision Recall F1 bar plot
+    Residual Plot
 
 
 
