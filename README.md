@@ -59,6 +59,7 @@ Performance Visualization
     Precision-Recall Curve
     Precision Recall F1 bar plot
     Residual Plot
+    Prediction vs Actual Scatter Plot
 
 
 
