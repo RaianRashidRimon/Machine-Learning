@@ -60,6 +60,7 @@ Performance Visualization
     Precision Recall F1 bar plot
     Residual Plot
     Prediction vs Actual Scatter Plot
+    PR Curve vs ROC Curve
 
 
 
