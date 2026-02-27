@@ -61,6 +61,7 @@ Performance Visualization
     Residual Plot
     Prediction vs Actual Scatter Plot
     PR Curve vs ROC Curve
+    Calibration Curve
 
 
 
