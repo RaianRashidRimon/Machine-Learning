@@ -63,6 +63,7 @@ Performance Visualization
     PR Curve vs ROC Curve
     Calibration Curve
     Learning Curve
+    Feature Importance Bar
 
 
 
