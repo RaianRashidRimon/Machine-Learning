@@ -62,6 +62,7 @@ Performance Visualization
     Prediction vs Actual Scatter Plot
     PR Curve vs ROC Curve
     Calibration Curve
+    Lift Curve
     Learning Curve
     Feature Importance Bar
 
