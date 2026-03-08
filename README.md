@@ -30,6 +30,7 @@ Algorithms
     Polynomial Regression
     Logistic Regression
     K-Means Clustering
+    Spectral Clustering
     K-Nearest Neighbor 
     Naive Bayes
     Support Vector Machine
