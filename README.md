@@ -31,6 +31,7 @@ Algorithms
     Logistic Regression
     K-Means Clustering
     Spectral Clustering
+    Fuzzy C-Means Clustering
     K-Nearest Neighbor 
     Naive Bayes
     Support Vector Machine
