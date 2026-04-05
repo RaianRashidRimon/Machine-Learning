@@ -6,24 +6,6 @@ This repository contains several types of Machine Learning contents/codes such a
 ## Contents
 The repository is organized into the following folders:
 
-### Graph Based Codes
-
-    Bar Graphs
-    Line Graphs
-    Bar & Line Graphs
-    Dot Plots
-    Histograms
-    Pictographs
-    Piecharts
-    Stem and Leaf Plots
-
-### Library Based Codes
-
-    NumPy
-    Pandas
-    SciPy
-    Pandas
-
 ### Algorithms
 
 _Regression_
@@ -77,6 +59,25 @@ _Classification_
     Lift Curve
     Learning Curve
     Feature Importance Bar
+
+### Graph Based Codes
+
+    Bar Graphs
+    Line Graphs
+    Bar & Line Graphs
+    Dot Plots
+    Histograms
+    Pictographs
+    Piecharts
+    Stem and Leaf Plots
+
+### Library Based Codes
+
+    NumPy
+    Pandas
+    SciPy
+    Pandas
+
 
 
 
