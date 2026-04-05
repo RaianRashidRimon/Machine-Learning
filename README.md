@@ -26,15 +26,25 @@ The repository is organized into the following folders:
 
 ### Algorithms
 
+_Regression_
+
     Linear Regression
     Polynomial Regression
     Logistic Regression
+    
+_Classification_
+
+    K-Nearest Neighbor 
+    Support Vector Machine
+    Naive Bayes
+\
+
     K-Means Clustering
     Spectral Clustering
     Fuzzy C-Means Clustering
-    K-Nearest Neighbor 
-    Naive Bayes
-    Support Vector Machine
+
+\
+   
     Decision Tree
     ID3
     Random Forest Classifier
