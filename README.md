@@ -3,10 +3,10 @@ This repository contains a collection of machine learning algorithm codes along 
 
 This repository contains several types of Machine Learning contents/codes such as, different types of machine learning algorithms along with library and graph based codes
 
-# Contents
+## Contents
 The repository is organized into the following folders:
 
-Graph Based Codes
+### Graph Based Codes
 
     Bar Graphs
     Line Graphs
@@ -17,14 +17,14 @@ Graph Based Codes
     Piecharts
     Stem and Leaf Plots
 
-Library Based Codes
+### Library Based Codes
 
     NumPy
     Pandas
     SciPy
     Pandas
 
-Algorithms
+### Algorithms
 
     Linear Regression
     Polynomial Regression
@@ -53,7 +53,7 @@ Algorithms
            iv. Average Linkag
     
 
-Performance Visualization
+### Performance Visualization
 
     Confusion Matrix
     Heatmap
