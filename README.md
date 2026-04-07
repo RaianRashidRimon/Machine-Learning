@@ -19,6 +19,9 @@ _Classification_
     K-Nearest Neighbor 
     Support Vector Machine
     Naive Bayes
+    Decision Tree
+    ID3
+    Random Forest Classifier
 \
 
     K-Means Clustering
@@ -27,9 +30,6 @@ _Classification_
 
 \
    
-    Decision Tree
-    ID3
-    Random Forest Classifier
     Principal Component Analysis
     DBSCAN
     Gradient Boosting
