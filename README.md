@@ -22,27 +22,31 @@ _Classification_
     Decision Tree
     ID3
     Random Forest Classifier
-\
+    
+_Clustering_
 
     K-Means Clustering
     Spectral Clustering
     Fuzzy C-Means Clustering
-
-\
-   
-    Principal Component Analysis
     DBSCAN
-    Gradient Boosting
-    XGBoost
-    AdaBoost
-    LightGBM
     Mean-Shift
-    Bagging
     Hierarchical Clustering
             i. Single Linkage
            ii. Complete Linkage
           iii. Ward Linkage
            iv. Average Linkag
+
+\
+   
+    Principal Component Analysis
+    
+    Gradient Boosting
+    XGBoost
+    AdaBoost
+    LightGBM
+    
+    Bagging
+    
     
 
 ### Performance Visualization
