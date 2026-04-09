@@ -40,14 +40,19 @@ _Dimensionality Reduction_
    
     Principal Component Analysis
 
- \
+ _Ensemble Learning_
  
+    Bagging
+    Random Forest
     Gradient Boosting
-    XGBoost
     AdaBoost
+
+\
+
+    XGBoost
     LightGBM
     
-    Bagging
+    
     
     
 
