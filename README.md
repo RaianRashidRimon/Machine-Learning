@@ -36,10 +36,12 @@ _Clustering_
           iii. Ward Linkage
            iv. Average Linkag
 
-\
+_Dimensionality Reduction_
    
     Principal Component Analysis
-    
+
+ \
+ 
     Gradient Boosting
     XGBoost
     AdaBoost
