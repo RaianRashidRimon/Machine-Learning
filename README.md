@@ -47,7 +47,7 @@ _Dimensionality Reduction_
     Gradient Boosting
     AdaBoost
 
-\
+_Advanced Boosting Methods_
 
     XGBoost
     LightGBM
