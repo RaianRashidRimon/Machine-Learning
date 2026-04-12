@@ -58,10 +58,16 @@ _Advanced Boosting Methods_
 
 ### Performance Visualization
 
+_Classification Evaluation Metrics & Plots_
+
     Confusion Matrix
-    Heatmap
     ROC Curve
     Precision-Recall Curve
+    Precision Recall F1 bar plot
+
+\    
+
+    Heatmap
     Precision Recall F1 bar plot
     Residual Plot
     Prediction vs Actual Scatter Plot
