@@ -53,8 +53,6 @@ _Advanced Boosting Methods_
     LightGBM
     
     
-    
-    
 
 ### Performance Visualization
 
@@ -65,12 +63,17 @@ _Classification Evaluation Metrics & Plots_
     Precision-Recall Curve
     Precision Recall F1 bar plot
 
-\    
+_Regression Evaluation & Diagnostics_   
+
+    Residual Plot
+    Prediction vs Actual Scatter Plot
+
+/
 
     Heatmap
     Precision Recall F1 bar plot
-    Residual Plot
-    Prediction vs Actual Scatter Plot
+    
+    
     PR Curve vs ROC Curve
     Calibration Curve
     Lift Curve
