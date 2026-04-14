@@ -68,13 +68,17 @@ _Regression Evaluation & Diagnostics_
     Residual Plot
     Prediction vs Actual Scatter Plot
 
-/
+_Model Comparison & Analysis_
+
+    PR Curve vs ROC Curve
+
+\
 
     Heatmap
     Precision Recall F1 bar plot
     
     
-    PR Curve vs ROC Curve
+    
     Calibration Curve
     Lift Curve
     Learning Curve
