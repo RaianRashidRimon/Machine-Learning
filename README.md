@@ -72,15 +72,20 @@ _Model Comparison & Analysis_
 
     PR Curve vs ROC Curve
 
-\
+_Model Calibration_
 
+    Calibration Curve
+    Lift Curve
+
+\
+    
     Heatmap
     Precision Recall F1 bar plot
     
     
     
-    Calibration Curve
-    Lift Curve
+    
+    
     Learning Curve
     Feature Importance Bar
 
