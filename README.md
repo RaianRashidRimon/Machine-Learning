@@ -4,7 +4,7 @@ This repository contains a collection of machine learning algorithm codes along 
 This repository contains several types of Machine Learning contents/codes such as, different types of machine learning algorithms along with library and graph based codes
 
 ## Contents
-The repository is organized into the following folders:
+The repository is organized into the following contents:
 
 ### Algorithms
 
@@ -31,11 +31,11 @@ _Clustering_
     DBSCAN
     Mean-Shift
     Hierarchical Clustering
-            i. Single Linkage
-           ii. Complete Linkage
-          iii. Ward Linkage
-           iv. Average Linkag
-
+                i. Single Linkage
+               ii. Complete Linkage
+              iii. Ward Linkage
+               iv. Average Linkag
+    
 _Dimensionality Reduction_
    
     Principal Component Analysis
