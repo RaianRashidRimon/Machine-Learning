@@ -77,16 +77,14 @@ _Model Calibration_
     Calibration Curve
     Lift Curve
 
+_Model Training Behavior_
+
+    Learning Curve
+
 \
     
     Heatmap
     Precision Recall F1 bar plot
-    
-    
-    
-    
-    
-    Learning Curve
     Feature Importance Bar
 
 ### Graph Based Codes
