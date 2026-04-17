@@ -81,10 +81,9 @@ _Model Training Behavior_
 
     Learning Curve
 
-\
+_Model Interpretability_
     
     Heatmap
-    Precision Recall F1 bar plot
     Feature Importance Bar
 
 ### Graph Based Codes
